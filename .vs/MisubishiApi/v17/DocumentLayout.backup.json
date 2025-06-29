@@ -1,0 +1,54 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\Study\\Personal Project\\MisubishiApi\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{2992D9D9-C312-40DB-BD8F-7C50062F48CE}|MisubishiApi\\MisubishiApi.csproj|d:\\study\\personal project\\misubishiapi\\misubishiapi\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{2992D9D9-C312-40DB-BD8F-7C50062F48CE}|MisubishiApi\\MisubishiApi.csproj|solutionrelative:misubishiapi\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0B377035-18AD-4F19-8FF9-E7192475E7E9}|Misubishi.DAL\\Misubishi.DAL.csproj|d:\\study\\personal project\\misubishiapi\\misubishi.dal\\entities\\mitsubishidbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0B377035-18AD-4F19-8FF9-E7192475E7E9}|Misubishi.DAL\\Misubishi.DAL.csproj|solutionrelative:misubishi.dal\\entities\\mitsubishidbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "MitsubishiDbContext.cs",
+              "DocumentMoniker": "D:\\Study\\Personal Project\\MisubishiApi\\Misubishi.DAL\\Entities\\MitsubishiDbContext.cs",
+              "RelativeDocumentMoniker": "Misubishi.DAL\\Entities\\MitsubishiDbContext.cs",
+              "ToolTip": "D:\\Study\\Personal Project\\MisubishiApi\\Misubishi.DAL\\Entities\\MitsubishiDbContext.cs*",
+              "RelativeToolTip": "Misubishi.DAL\\Entities\\MitsubishiDbContext.cs*",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-29T10:48:01.141Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "D:\\Study\\Personal Project\\MisubishiApi\\MisubishiApi\\appsettings.json",
+              "RelativeDocumentMoniker": "MisubishiApi\\appsettings.json",
+              "ToolTip": "D:\\Study\\Personal Project\\MisubishiApi\\MisubishiApi\\appsettings.json",
+              "RelativeToolTip": "MisubishiApi\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAEAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-06-29T10:39:58.778Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

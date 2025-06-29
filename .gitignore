@@ -1,0 +1,59 @@
+# Bỏ file cấu hình nhạy cảm
+appsettings.json
+
+# Build results
+bin/
+obj/
+[Bb]uild/
+[Ll]og/
+*.log
+
+# Rider project files
+.idea/
+
+# VS user-specific files
+.vscode/
+*.suo
+*.user
+*.userosscache
+*.sln.docstates
+
+# DotNet build outputs
+*.dll
+*.exe
+*.pdb
+*.cache
+*.dbmdl
+
+# ASP.NET
+*.db
+*.db-shm
+*.db-wal
+
+# EF Core
+project.assets.json
+project.nuget.cache
+*.csproj.nuget.dgspec.json
+*.csproj.nuget.g.props
+*.csproj.nuget.g.targets
+
+# Others
+*.nupkg
+*.snupkg
+*.tgz
+
+# NuGet
+.nuget/
+packages/
+*.nuspec
+
+# Visual Studio Code workspace
+.vscode/
+
+# User secrets
+secrets.json
+
+# Publish outputs
+wwwroot/dist/
+publish/
+out/

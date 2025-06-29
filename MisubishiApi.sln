@@ -5,6 +5,10 @@ VisualStudioVersion = 17.13.35913.81 d17.13
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MisubishiApi", "MisubishiApi\MisubishiApi.csproj", "{2992D9D9-C312-40DB-BD8F-7C50062F48CE}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Misubishi.DAL", "Misubishi.DAL\Misubishi.DAL.csproj", "{0B377035-18AD-4F19-8FF9-E7192475E7E9}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Misubishi.BLL", "Misubishi.BLL\Misubishi.BLL.csproj", "{8E98A7A1-6F07-462F-AEE4-2B5E787C854B}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -15,6 +19,14 @@ Global
 		{2992D9D9-C312-40DB-BD8F-7C50062F48CE}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{2992D9D9-C312-40DB-BD8F-7C50062F48CE}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{2992D9D9-C312-40DB-BD8F-7C50062F48CE}.Release|Any CPU.Build.0 = Release|Any CPU
+		{0B377035-18AD-4F19-8FF9-E7192475E7E9}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0B377035-18AD-4F19-8FF9-E7192475E7E9}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0B377035-18AD-4F19-8FF9-E7192475E7E9}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0B377035-18AD-4F19-8FF9-E7192475E7E9}.Release|Any CPU.Build.0 = Release|Any CPU
+		{8E98A7A1-6F07-462F-AEE4-2B5E787C854B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8E98A7A1-6F07-462F-AEE4-2B5E787C854B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{8E98A7A1-6F07-462F-AEE4-2B5E787C854B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{8E98A7A1-6F07-462F-AEE4-2B5E787C854B}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
