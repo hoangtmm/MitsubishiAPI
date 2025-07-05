@@ -3,56 +3,16 @@
   "WorkspaceRootPath": "D:\\Study\\Personal Project\\MisubishiApi\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{2992D9D9-C312-40DB-BD8F-7C50062F48CE}|MisubishiApi\\MisubishiApi.csproj|d:\\study\\personal project\\misubishiapi\\misubishiapi\\controllers\\quickquotecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{2992D9D9-C312-40DB-BD8F-7C50062F48CE}|MisubishiApi\\MisubishiApi.csproj|solutionrelative:misubishiapi\\controllers\\quickquotecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{2992D9D9-C312-40DB-BD8F-7C50062F48CE}|MisubishiApi\\MisubishiApi.csproj|d:\\study\\personal project\\misubishiapi\\misubishiapi\\dockerfile||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{2992D9D9-C312-40DB-BD8F-7C50062F48CE}|MisubishiApi\\MisubishiApi.csproj|solutionrelative:misubishiapi\\dockerfile||{8B382828-6202-11D1-8870-0000F87579D2}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{8E98A7A1-6F07-462F-AEE4-2B5E787C854B}|Misubishi.BLL\\Misubishi.BLL.csproj|d:\\study\\personal project\\misubishiapi\\misubishi.bll\\services\\emailservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{8E98A7A1-6F07-462F-AEE4-2B5E787C854B}|Misubishi.BLL\\Misubishi.BLL.csproj|solutionrelative:misubishi.bll\\services\\emailservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{2992D9D9-C312-40DB-BD8F-7C50062F48CE}|MisubishiApi\\MisubishiApi.csproj|d:\\study\\personal project\\misubishiapi\\misubishiapi\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
-      "RelativeMoniker": "D:0:0:{2992D9D9-C312-40DB-BD8F-7C50062F48CE}|MisubishiApi\\MisubishiApi.csproj|solutionrelative:misubishiapi\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+      "AbsoluteMoniker": "D:0:0:{2992D9D9-C312-40DB-BD8F-7C50062F48CE}|MisubishiApi\\MisubishiApi.csproj|d:\\study\\personal project\\misubishiapi\\.dockerignore||{3B902123-F8A7-4915-9F01-361F908088D0}",
+      "RelativeMoniker": "D:0:0:{2992D9D9-C312-40DB-BD8F-7C50062F48CE}|MisubishiApi\\MisubishiApi.csproj|solutionrelative:.dockerignore||{3B902123-F8A7-4915-9F01-361F908088D0}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{2992D9D9-C312-40DB-BD8F-7C50062F48CE}|MisubishiApi\\MisubishiApi.csproj|d:\\study\\personal project\\misubishiapi\\misubishiapi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{2992D9D9-C312-40DB-BD8F-7C50062F48CE}|MisubishiApi\\MisubishiApi.csproj|solutionrelative:misubishiapi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{2992D9D9-C312-40DB-BD8F-7C50062F48CE}|MisubishiApi\\MisubishiApi.csproj|d:\\study\\personal project\\misubishiapi\\misubishiapi\\controllers\\carscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{2992D9D9-C312-40DB-BD8F-7C50062F48CE}|MisubishiApi\\MisubishiApi.csproj|solutionrelative:misubishiapi\\controllers\\carscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{0B377035-18AD-4F19-8FF9-E7192475E7E9}|Misubishi.DAL\\Misubishi.DAL.csproj|d:\\study\\personal project\\misubishiapi\\misubishi.dal\\dto\\quickquotedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{0B377035-18AD-4F19-8FF9-E7192475E7E9}|Misubishi.DAL\\Misubishi.DAL.csproj|solutionrelative:misubishi.dal\\dto\\quickquotedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{0B377035-18AD-4F19-8FF9-E7192475E7E9}|Misubishi.DAL\\Misubishi.DAL.csproj|d:\\study\\personal project\\misubishiapi\\misubishi.dal\\entities\\quickquote.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{0B377035-18AD-4F19-8FF9-E7192475E7E9}|Misubishi.DAL\\Misubishi.DAL.csproj|solutionrelative:misubishi.dal\\entities\\quickquote.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{0B377035-18AD-4F19-8FF9-E7192475E7E9}|Misubishi.DAL\\Misubishi.DAL.csproj|d:\\study\\personal project\\misubishiapi\\misubishi.dal\\entities\\mitsubishidbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{0B377035-18AD-4F19-8FF9-E7192475E7E9}|Misubishi.DAL\\Misubishi.DAL.csproj|solutionrelative:misubishi.dal\\entities\\mitsubishidbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{0B377035-18AD-4F19-8FF9-E7192475E7E9}|Misubishi.DAL\\Misubishi.DAL.csproj|d:\\study\\personal project\\misubishiapi\\misubishi.dal\\repositories\\carrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{0B377035-18AD-4F19-8FF9-E7192475E7E9}|Misubishi.DAL\\Misubishi.DAL.csproj|solutionrelative:misubishi.dal\\repositories\\carrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{0B377035-18AD-4F19-8FF9-E7192475E7E9}|Misubishi.DAL\\Misubishi.DAL.csproj|d:\\study\\personal project\\misubishiapi\\misubishi.dal\\repositories\\icarrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{0B377035-18AD-4F19-8FF9-E7192475E7E9}|Misubishi.DAL\\Misubishi.DAL.csproj|solutionrelative:misubishi.dal\\repositories\\icarrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{8E98A7A1-6F07-462F-AEE4-2B5E787C854B}|Misubishi.BLL\\Misubishi.BLL.csproj|d:\\study\\personal project\\misubishiapi\\misubishi.bll\\services\\carservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{8E98A7A1-6F07-462F-AEE4-2B5E787C854B}|Misubishi.BLL\\Misubishi.BLL.csproj|solutionrelative:misubishi.bll\\services\\carservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{0B377035-18AD-4F19-8FF9-E7192475E7E9}|Misubishi.DAL\\Misubishi.DAL.csproj|d:\\study\\personal project\\misubishiapi\\misubishi.dal\\dto\\createcardto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{0B377035-18AD-4F19-8FF9-E7192475E7E9}|Misubishi.DAL\\Misubishi.DAL.csproj|solutionrelative:misubishi.dal\\dto\\createcardto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{0B377035-18AD-4F19-8FF9-E7192475E7E9}|Misubishi.DAL\\Misubishi.DAL.csproj|d:\\study\\personal project\\misubishiapi\\misubishi.dal\\entities\\car.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{0B377035-18AD-4F19-8FF9-E7192475E7E9}|Misubishi.DAL\\Misubishi.DAL.csproj|solutionrelative:misubishi.dal\\entities\\car.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -62,170 +22,46 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 2,
+          "SelectedChildIndex": 1,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 5,
-              "Title": "QuickQuoteDto.cs",
-              "DocumentMoniker": "D:\\Study\\Personal Project\\MisubishiApi\\Misubishi.DAL\\DTO\\QuickQuoteDto.cs",
-              "RelativeDocumentMoniker": "Misubishi.DAL\\DTO\\QuickQuoteDto.cs",
-              "ToolTip": "D:\\Study\\Personal Project\\MisubishiApi\\Misubishi.DAL\\DTO\\QuickQuoteDto.cs",
-              "RelativeToolTip": "Misubishi.DAL\\DTO\\QuickQuoteDto.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAApAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-07-03T03:51:09.046Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 6,
-              "Title": "QuickQuote.cs",
-              "DocumentMoniker": "D:\\Study\\Personal Project\\MisubishiApi\\Misubishi.DAL\\Entities\\QuickQuote.cs",
-              "RelativeDocumentMoniker": "Misubishi.DAL\\Entities\\QuickQuote.cs",
-              "ToolTip": "D:\\Study\\Personal Project\\MisubishiApi\\Misubishi.DAL\\Entities\\QuickQuote.cs",
-              "RelativeToolTip": "Misubishi.DAL\\Entities\\QuickQuote.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAqwAUAAAAVAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-07-03T03:40:37.361Z",
+              "DocumentIndex": 1,
+              "Title": ".dockerignore",
+              "DocumentMoniker": "D:\\Study\\Personal Project\\MisubishiApi\\.dockerignore",
+              "RelativeDocumentMoniker": ".dockerignore",
+              "ToolTip": "D:\\Study\\Personal Project\\MisubishiApi\\.dockerignore",
+              "RelativeToolTip": ".dockerignore",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
+              "WhenOpened": "2025-07-05T12:54:05.848Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 0,
-              "Title": "QuickQuoteController.cs",
-              "DocumentMoniker": "D:\\Study\\Personal Project\\MisubishiApi\\MisubishiApi\\Controllers\\QuickQuoteController.cs",
-              "RelativeDocumentMoniker": "MisubishiApi\\Controllers\\QuickQuoteController.cs",
-              "ToolTip": "D:\\Study\\Personal Project\\MisubishiApi\\MisubishiApi\\Controllers\\QuickQuoteController.cs",
-              "RelativeToolTip": "MisubishiApi\\Controllers\\QuickQuoteController.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAFAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-07-03T03:39:55.397Z",
+              "Title": "Dockerfile",
+              "DocumentMoniker": "D:\\Study\\Personal Project\\MisubishiApi\\MisubishiApi\\Dockerfile",
+              "RelativeDocumentMoniker": "MisubishiApi\\Dockerfile",
+              "ToolTip": "D:\\Study\\Personal Project\\MisubishiApi\\MisubishiApi\\Dockerfile",
+              "RelativeToolTip": "MisubishiApi\\Dockerfile",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABkAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
+              "WhenOpened": "2025-07-05T12:42:23.72Z",
               "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "EmailService.cs",
-              "DocumentMoniker": "D:\\Study\\Personal Project\\MisubishiApi\\Misubishi.BLL\\Services\\EmailService.cs",
-              "RelativeDocumentMoniker": "Misubishi.BLL\\Services\\EmailService.cs",
-              "ToolTip": "D:\\Study\\Personal Project\\MisubishiApi\\Misubishi.BLL\\Services\\EmailService.cs",
-              "RelativeToolTip": "Misubishi.BLL\\Services\\EmailService.cs",
-              "ViewState": "AgIAABgAAAAAAAAAAAAtwCkAAAApAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-07-03T03:39:14.995Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 7,
-              "Title": "MitsubishiDbContext.cs",
-              "DocumentMoniker": "D:\\Study\\Personal Project\\MisubishiApi\\Misubishi.DAL\\Entities\\MitsubishiDbContext.cs",
-              "RelativeDocumentMoniker": "Misubishi.DAL\\Entities\\MitsubishiDbContext.cs",
-              "ToolTip": "D:\\Study\\Personal Project\\MisubishiApi\\Misubishi.DAL\\Entities\\MitsubishiDbContext.cs",
-              "RelativeToolTip": "Misubishi.DAL\\Entities\\MitsubishiDbContext.cs",
-              "ViewState": "AgIAACAAAAAAAAAAAAA7wAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-06-30T01:24:23.316Z"
             },
             {
               "$type": "Document",
               "DocumentIndex": 2,
-              "Title": "appsettings.json",
-              "DocumentMoniker": "D:\\Study\\Personal Project\\MisubishiApi\\MisubishiApi\\appsettings.json",
-              "RelativeDocumentMoniker": "MisubishiApi\\appsettings.json",
-              "ToolTip": "D:\\Study\\Personal Project\\MisubishiApi\\MisubishiApi\\appsettings.json",
-              "RelativeToolTip": "MisubishiApi\\appsettings.json",
-              "ViewState": "AgIAAAEAAAAAAAAAAAAAABYAAAAfAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
-              "WhenOpened": "2025-06-30T01:21:39.785Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 3,
               "Title": "Program.cs",
               "DocumentMoniker": "D:\\Study\\Personal Project\\MisubishiApi\\MisubishiApi\\Program.cs",
               "RelativeDocumentMoniker": "MisubishiApi\\Program.cs",
               "ToolTip": "D:\\Study\\Personal Project\\MisubishiApi\\MisubishiApi\\Program.cs",
               "RelativeToolTip": "MisubishiApi\\Program.cs",
-              "ViewState": "AgIAAAgAAAAAAAAAAAAIwDwAAAAYAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABQAAAAcAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-06-30T01:18:35.39Z",
+              "WhenOpened": "2025-07-04T02:42:45.778Z",
               "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 4,
-              "Title": "CarsController.cs",
-              "DocumentMoniker": "D:\\Study\\Personal Project\\MisubishiApi\\MisubishiApi\\Controllers\\CarsController.cs",
-              "RelativeDocumentMoniker": "MisubishiApi\\Controllers\\CarsController.cs",
-              "ToolTip": "D:\\Study\\Personal Project\\MisubishiApi\\MisubishiApi\\Controllers\\CarsController.cs",
-              "RelativeToolTip": "MisubishiApi\\Controllers\\CarsController.cs",
-              "ViewState": "AgIAACAAAAAAAAAAAAAIwAsAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-06-30T01:16:10.868Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 10,
-              "Title": "CarService.cs",
-              "DocumentMoniker": "D:\\Study\\Personal Project\\MisubishiApi\\Misubishi.BLL\\Services\\CarService.cs",
-              "RelativeDocumentMoniker": "Misubishi.BLL\\Services\\CarService.cs",
-              "ToolTip": "D:\\Study\\Personal Project\\MisubishiApi\\Misubishi.BLL\\Services\\CarService.cs",
-              "RelativeToolTip": "Misubishi.BLL\\Services\\CarService.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAqwAoAAAAPAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-06-30T01:15:35.957Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 8,
-              "Title": "CarRepository.cs",
-              "DocumentMoniker": "D:\\Study\\Personal Project\\MisubishiApi\\Misubishi.DAL\\Repositories\\CarRepository.cs",
-              "RelativeDocumentMoniker": "Misubishi.DAL\\Repositories\\CarRepository.cs",
-              "ToolTip": "D:\\Study\\Personal Project\\MisubishiApi\\Misubishi.DAL\\Repositories\\CarRepository.cs",
-              "RelativeToolTip": "Misubishi.DAL\\Repositories\\CarRepository.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAqwAoAAAAKAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-06-30T01:14:24.017Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 9,
-              "Title": "ICarRepository.cs",
-              "DocumentMoniker": "D:\\Study\\Personal Project\\MisubishiApi\\Misubishi.DAL\\Repositories\\ICarRepository.cs",
-              "RelativeDocumentMoniker": "Misubishi.DAL\\Repositories\\ICarRepository.cs",
-              "ToolTip": "D:\\Study\\Personal Project\\MisubishiApi\\Misubishi.DAL\\Repositories\\ICarRepository.cs",
-              "RelativeToolTip": "Misubishi.DAL\\Repositories\\ICarRepository.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAqwAkAAAAVAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-06-30T01:14:04.081Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 12,
-              "Title": "Car.cs",
-              "DocumentMoniker": "D:\\Study\\Personal Project\\MisubishiApi\\Misubishi.DAL\\Entities\\Car.cs",
-              "RelativeDocumentMoniker": "Misubishi.DAL\\Entities\\Car.cs",
-              "ToolTip": "D:\\Study\\Personal Project\\MisubishiApi\\Misubishi.DAL\\Entities\\Car.cs",
-              "RelativeToolTip": "Misubishi.DAL\\Entities\\Car.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-06-29T18:50:43.962Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 11,
-              "Title": "CreateCarDto.cs",
-              "DocumentMoniker": "D:\\Study\\Personal Project\\MisubishiApi\\Misubishi.DAL\\DTO\\CreateCarDto.cs",
-              "RelativeDocumentMoniker": "Misubishi.DAL\\DTO\\CreateCarDto.cs",
-              "ToolTip": "D:\\Study\\Personal Project\\MisubishiApi\\Misubishi.DAL\\DTO\\CreateCarDto.cs",
-              "RelativeToolTip": "Misubishi.DAL\\DTO\\CreateCarDto.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAArAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-06-29T18:50:24.728Z"
             }
           ]
         }
